@@ -1,0 +1,8 @@
+nav {
+    width: 200px;
+    float: left;
+}
+
+#div_principal {
+    position: fixed;
+}
